@@ -32,7 +32,7 @@ export default function Home() {
               community living away from our beloved island.
             </p>
             <p>
-              For now the community mainly runs via a WhatsApp group that organises get togethers, shares career
+              For now the community mainly runs via a WhatsApp group that organises get-togethers, shares career
               opportunities and exchanges services.
             </p>
             <p>If you are a Corsican living in the UK and would like to join, scan the QR code or click the link:</p>
