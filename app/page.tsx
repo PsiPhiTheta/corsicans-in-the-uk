@@ -41,10 +41,11 @@ export default function Home() {
           <div className="flex justify-center py-8">
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <Image
-                src="/images/qr-code.png"
+                src="/images/qr-code2.png"
                 alt="QR Code to join Corsicans in the UK WhatsApp community"
                 fill
-                className="object-contain filter invert"
+                className="object-contain"
+                priority
               />
             </div>
           </div>
