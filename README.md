@@ -1,30 +1,19 @@
-# Simple Landing Page
+# Corsicans in the UK - Landing Page
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A simple landing page for the Corsican community in the UK, featuring information about the community and a WhatsApp group invitation.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/psiphithetas-projects/v0-simple-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/vvamkZGHs7L)
+## Features
 
-## Overview
+- Responsive design for all devices
+- QR code for easy WhatsApp group access
+- Clean, modern black theme
+- Sticky header with community logo
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Getting Started
 
-## Deployment
+\`\`\`bash
+npm install
+npm run dev
+\`\`\`
 
-Your project is live at:
-
-**[https://vercel.com/psiphithetas-projects/v0-simple-landing-page](https://vercel.com/psiphithetas-projects/v0-simple-landing-page)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/vvamkZGHs7L](https://v0.dev/chat/projects/vvamkZGHs7L)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Open [http://localhost:3000](http://localhost:3000) to view the site.
