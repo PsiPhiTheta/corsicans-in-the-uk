@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 ## Join the community!
 
-<img src="/public/images/qr-code.png" alt="QR Code" width="150" />
+<img src="/public/images/qr-code2.png" alt="QR Code" width="150" />
 
 [Join the WhatsApp Community by scanning above or clicking here](https://chat.whatsapp.com/CArLlMGrYNsHQSg8T14P1e)
